@@ -1,5 +1,5 @@
 # Scripts
-Script-based automations using AppleScript and Shell scripts. Last Updated 09/22/2024.
+Script-based automations using AppleScript and Shell scripts. Last Updated 09/26/2024.
 
 ## Emails
 [Crazy Message Text](https://github.com/calikasten/scripts/blob/master/Crazy%20Message%20Text.scpt) <br>
