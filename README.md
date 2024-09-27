@@ -10,5 +10,8 @@ An AppleScript that calls a Siri Shortcut to input status updates and then forma
 Prompts the user for a text input to apply "crazy text" formatting to, before opening Mail app and adding the formatted text input into the email body. Default AppleScipt from Apple.
 
 ## Media
-[New QuickTime Screen Recording]() <br>
+[New QuickTime Screen Recording](https://github.com/calikasten/scripts/blob/master/New%20QuickTime%20Screen%20Recording.scpt) <br>
 Opens QuickTime for new screen recording. 
+
+[Show Image Info](https://github.com/calikasten/scripts/blob/master/Show%20Image%20Info.applescript) <br>
+Displays image information. Default Applescript from Apple.
