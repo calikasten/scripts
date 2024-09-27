@@ -1,5 +1,5 @@
 # Scripts
-Script-based automations using AppleScript and Shell scripts. Last Updated 09/26/2024.
+Script-based automations using AppleScripts and Shell scripts. Last Updated 09/26/2024.
 
 ## Communication
 [Send Status Update Email](https://github.com/calikasten/scripts/blob/master/Send%20Status%20Update%20Email.scpt) <br>
