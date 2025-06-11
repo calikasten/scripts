@@ -7,4 +7,4 @@ An AppleScript that calls a Siri Shortcut to input status updates and then forma
 
 ## Note Taking
 [Format Fathom Notes](https://github.com/calikasten/scripts/blob/master/Format%20Fathom%20Notes.scpt) <br>
-Automatically formats the copied summary from Fathom's meeting notes into preferred styling.
+Automatically formats the copied summary from [Fathom](https://fathom.video/) meeting notes into preferred styling.
