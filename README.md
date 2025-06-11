@@ -6,5 +6,5 @@ Script-based automations using AppleScripts and Shell scripts. Last Updated 06/1
 An AppleScript that calls a Siri Shortcut to input status updates and then formats all of the inputs into rich text to send in the email body.
 
 ## Note Taking
-[Format Fathom Meeting Notes](https://github.com/calikasten/scripts/blob/master/Automatically%20Format%20Meeting%20Notes.scpt) <br>
-Automatically formats copied Fathom meeting notes into preferred format and styling.
+[Format Fathom Notes](https://github.com/calikasten/scripts/blob/master/Format%20Fathom%20Notes.scpt) <br>
+Automatically formats the copied summary from Fathom's meeting notes into preferred styling.
