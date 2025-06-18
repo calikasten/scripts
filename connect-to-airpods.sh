@@ -1,1 +1,1 @@
-/opt/homebrew/bin/blueutil --connect 7C:C0:6F:94:C7:C4
+/opt/homebrew/bin/blueutil --connect AIRPODS MAC ADDRESS
