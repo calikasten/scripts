@@ -1,5 +1,5 @@
 # Scripts
-Scripts that automate stuff on MacOS. Last Updated 06/12/2025.
+Scripts that automate stuff on MacOS. Last Updated 06/17/2025.
 
 ## Note Taking
 [Format Fathom Notes](https://github.com/calikasten/scripts/blob/master/Format%20Fathom%20Notes.scpt) <br>
