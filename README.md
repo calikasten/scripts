@@ -1,5 +1,9 @@
 # Scripts
-Scripts that automate stuff on MacOS. Last Updated 06/17/2025.
+Scripts that automate stuff on MacOS. Last Updated 12/22/2025.
+
+## Communication
+[Send Unsolicited Reading Material](https://github.com/calikasten/scripts/blob/master/Send%20Unsolicited%20Reading%20Material.scpt) <br>
+Automatically copies the URL of the active tab from a web browser to the clipboard and sends an email with that URL in the body of the email.
 
 ## Note Taking
 [Format Fathom Notes](https://github.com/calikasten/scripts/blob/master/Format%20Fathom%20Notes.scpt) <br>
