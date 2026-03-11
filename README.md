@@ -1,5 +1,5 @@
 # Scripts
-Scripts that automate stuff on MacOS. Last Updated 02/02/2026.
+Scripts that automate stuff on MacOS. Last Updated 03/11/2026.
 
 ## Communication
 [Email Current URL](https://github.com/calikasten/scripts/blob/main/scripts/email-current-url.scpt) <br>
