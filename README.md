@@ -7,9 +7,7 @@ Automatically copies the URL of the active tab from a web browser to the clipboa
 
 ## Note Taking
 [Format Fathom Meeting Notes](https://github.com/calikasten/scripts/tree/main/scripts/Format%20Fathom%20Meeting%20Notes) <br>
-Automated process to move and format Fathom Meeting notes into Obsidian.
-
-formats the copied summary from [Fathom](https://fathom.video/) meeting notes into preferred styling.
+Automated process to retrieve, format, and move [Fathom](https://fathom.video/) meeting notes into Obsidian.
 
 ## Utilities
 [Connect to AirPods](https://github.com/calikasten/scripts/blob/main/scripts/connect-to-airpods.sh) <br>
