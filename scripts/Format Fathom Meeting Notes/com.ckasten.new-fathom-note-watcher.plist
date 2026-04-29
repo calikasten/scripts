@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.ckasten.new-fathom-note-watcher</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>-c</string>
+    <string>INBOX="/Users/ckasten/Library/CloudStorage/Dropbox/Fathom Meeting Notes"; PROCESSED="$INBOX/processed"; SCRIPT="/Users/ckasten/Scripts/FormatFathomNotes.applescript"; mkdir -p "$PROCESSED"; found=0; for f in "$INBOX"/*.txt; do [ -e "$f" ] || continue; found=1; echo "[$(date)] Processing: $f"; if /usr/bin/osascript "$SCRIPT" "$f"; then mv "$f" "$PROCESSED/"; echo "[$(date)] Done: $(basename "$f")"; else echo "[$(date)] FAILED: $f"; fi; done; [ $found -eq 0 ] &amp;&amp; echo "[$(date)] Tick - no files"</string>
+  </array>
+
+  <key>StartInterval</key>
+  <integer>30</integer>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/ckasten/Library/Logs/fathomwatcher.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/Users/ckasten/Library/Logs/fathomwatcher.err</string>
+</dict>
+</plist>
